@@ -3,4 +3,4 @@ Gateway ;
 Config remota ;
 Service discovery .
 
-Rode com Gradle 2.5.3 ou superior e Java 1.8 
+Execute com Gradle 2.5.3 ou superior e Java 1.8 
