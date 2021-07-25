@@ -1,7 +1,9 @@
 
+spring.config.import: "optional:configserver:"
+
 spring:
   application:
-    name: product-catalog
+    name: service-discovery
 
   cloud:
     config:
